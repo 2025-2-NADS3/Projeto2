@@ -63,9 +63,9 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>Android:</b>
 
-Faça o Download do JOGO.apk no seu celular.
-📥 [Baixar APK](apk/ComedoriaDaTia.apk)
-Execute o APK, faça seu cadastro/login e use livremente.
+Faça o Download do JOGO.apk no seu celular. </br>
+📥 [Baixar APK](apk/ComedoriaDaTia.apk) </br>
+Execute o APK, faça seu cadastro/login e use livremente. </br>
 
 <b>Windows:</b>
 
