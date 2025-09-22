@@ -17,17 +17,16 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  <img src="https://github.com/user-attachments/assets/7b549a2d-6549-4dca-a55e-cd8d1e374b0c" alt="GIF" border="0" width="660" heigth="500">
+</br>
+    Aplicação  <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+&nbsp;&nbsp;&nbsp; O Comedoria da Tia APP é um aplicativo desenvolvido para modernizar e facilitar a experiência dos alunos da FECAP na hora de realizar suas compras no famoso espaço da Tia Tânia. Com ele, os estudantes podem visualizar o cardápio atualizado, fazer pedidos antecipados e efetuar pagamentos digitais, reduzindo significativamente o tempo gasto em filas e tornando o processo de compra mais rápido e prático. Dessa forma, os alunos ganham mais conforto e agilidade no dia a dia acadêmico, sem abrir mão da qualidade e carinho já conhecidos da comedoria.
+</br>
+&nbsp;&nbsp;&nbsp; Além de beneficiar os estudantes, o aplicativo também oferece ferramentas de gestão que ajudam a Tia Tânia a organizar melhor o seu negócio. O sistema permite controlar pedidos, acompanhar o fluxo de vendas em tempo real e administrar o estoque de forma mais eficiente. Assim, o Comedoria da Tia APP não só melhora a rotina dos alunos, mas também fortalece a gestão da comedoria, garantindo mais praticidade, eficiência e crescimento sustentável para o negócio.
+</br>
 
 ## 🛠 Estrutura de pastas
 
@@ -65,6 +64,7 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>Android:</b>
 
 Faça o Download do JOGO.apk no seu celular.
+
 Execute o APK e siga as instruções de seu telefone.
 
 ```sh
