@@ -33,16 +33,23 @@
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
+  &emsp;|-->ComedoriaDaTia.apk<br>
+|-->documentos<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;&emsp;|Programação Mobile<br>
+    &emsp;&emsp;|User Experience Digital<br>
+    &emsp;&emsp;|Sistemas Operacionais e Arquiteturas Cloud Native<br>
+    &emsp;&emsp;|Testes e Qualidade de Software (DevOps)<br>
+  &emsp;|-->Entrega 2<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;&emsp;|Programação Mobile<br>
+      &emsp;&emsp;&emsp;|ComedoriaAPP @ 722f1b2<br>
+    &emsp;&emsp;|User Experience Digital<br>
+    &emsp;&emsp;|Sistemas Operacionais e Arquiteturas Cloud Native<br>
+    &emsp;&emsp;|Testes e Qualidade de Software (DevOps)<br>
+  &emsp;|-->Entrega 2<br>
+|-->imagens<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
