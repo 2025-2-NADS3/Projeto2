@@ -1,0 +1,35 @@
+create database Cantina_Tia;
+use Cantina_Tia;
+
+CREATE TABLE users(
+	id int auto_increment primary key,
+    name varchar(255) not null,
+   	email varchar(255) not null unique,
+    phone varchar(255) not null,
+    birthdate date not null,
+    cpf varchar(255) not null unique,
+	password varchar(255) not null
+);
+
+describe users;
+select * from users;
+
+CREATE TABLE categories (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL UNIQUE,
+    icon VARCHAR(10)
+);
+
+CREATE TABLE products (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    price DECIMAL(10, 2) NOT NULL,
+    image VARCHAR(10),
+    category_id INT NOT NULL,
+    FOREIGN KEY (category_id) REFERENCES categories(id)
+);
+
+describe categories;
+describe products;
+
+select * from products;
