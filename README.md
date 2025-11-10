@@ -13,7 +13,7 @@
 
 <br>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva">Jefferson Silva</a>, <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd">Rodrigo da Rosa</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti de Queiroz </a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva">Jefferson Silva</a>, <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd">Rodrigo da Rosa</a>
 ## Descrição
 
 <p align="center">
