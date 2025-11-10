@@ -7,3 +7,6 @@
 [submodule "src/Entrega 2/Programação Mobile/Teste-CantinaTia-"]
 	path = src/Entrega 2/Programação Mobile/Teste-CantinaTia-
 	url = https://github.com/Vinnywho/Teste-CantinaTia-.git
+[submodule "src/Entrega 2/Programação Mobile/FrontEnd/Cantina-v2"]
+	path = src/Entrega 2/Programação Mobile/FrontEnd/Cantina-v2
+	url = https://github.com/Vinnywho/Cantina-v2.git
