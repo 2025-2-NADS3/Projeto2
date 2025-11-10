@@ -1,1 +1,5 @@
-Link do protótipo: https://www.figma.com/proto/aLOYUhKnJ35ksE6oqFEfkU/Untitled?node-id=295-913&p=f&t=u6QbIyYoqFoYAKRo-0&scaling=scale-down&content-scaling=fixed&page-id=98%3A1150&starting-point-node-id=295%3A913
+<h1>LINK NAVEGAVEL</h1>
+Link: <a href="https://www.figma.com/proto/aLOYUhKnJ35ksE6oqFEfkU/Untitled?node-id=295-913&p=f&t=u6QbIyYoqFoYAKRo-0&scaling=scale-down&content-scaling=fixed&page-id=98%3A1150&starting-point-node-id=295%3A913">Protótipo</a>
+
+<h1>LINK DESIGN</h1>
+Link: <a href="https://www.figma.com/design/aLOYUhKnJ35ksE6oqFEfkU/Untitled?node-id=98-1150&p=f&t=u6QbIyYoqFoYAKRo-0">Figma</a>
